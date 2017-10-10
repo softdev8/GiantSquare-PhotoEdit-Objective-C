@@ -1,0 +1,26 @@
+"Title" = "Helvetica";
+"TitleSize" = "20";
+
+"MoreApps" = "Helvetica-Bold";
+"MoreAppsSize" = "12";
+
+"Feedback" = "Helvetica-Bold";
+"FeedbackSize" = "12";
+
+"MessageHeader" = "Helvetica-Bold";
+"MessageHeaderSize" = "18";
+
+"MessageDescription" = "Helvetica";
+"MessageDescriptionSize" = "13";
+
+"MessageTime" = "Helvetica";
+"MessageTimeSize" = "13";
+
+"UnreadMessageHeader" = "Helvetica-Bold";
+"UnreadMessageHeaderSize" = "18";
+
+"UnreadMessageDescription" = "Helvetica";
+"UnreadMessageDescriptionSize" = "13";
+
+"UnreadMessageTime" = "Helvetica";
+"UnreadMessageTimeSize" = "13";

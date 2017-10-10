@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>Giant Square Pro</string>
+	<key>CFBundleExecutable</key>
+	<string>${EXECUTABLE_NAME}</string>
+	<key>CFBundleIcons</key>
+	<dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string>icon120</string>
+				<string>icon.png</string>
+				<string>icon@2x.png</string>
+			</array>
+			<key>UIPrerenderedIcon</key>
+			<true/>
+		</dict>
+	</dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.johnatangalliano.thegiantsquare</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>${PRODUCT_NAME}</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>2.9</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb312379095547319</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>8.1</string>
+	<key>FacebookAppID</key>
+	<string>312379095547319</string>
+	<key>FacebookDisplayName</key>
+	<string>Giant Square Pro</string>
+	<key>LSApplicationCategoryType</key>
+	<string></string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Amatic-Bold.ttf</string>
+		<string>BebasNeue.otf</string>
+		<string>BlackJack.ttf</string>
+		<string>Blackout-2am.ttf</string>
+		<string>Blackout-Midnight.ttf</string>
+		<string>BodoniXT.ttf</string>
+		<string>Capture it.ttf</string>
+		<string>Capture it 2.ttf</string>
+		<string>Chunkfive.otf</string>
+		<string>GravitasOne.ttf</string>
+		<string>HVD Poster.ttf</string>
+		<string>Impact Label.ttf</string>
+		<string>Impact Label Reversed.ttf</string>
+		<string>Lato-Black.ttf</string>
+		<string>Lato-BoldItalic.ttf</string>
+		<string>Lato-Light.ttf</string>
+		<string>Lato-Lightltalic.ttf</string>
+		<string>Lato-Regular.ttf</string>
+		<string>Lato-Italic.ttf</string>
+		<string>Learning Curve Pro.otf</string>
+		<string>LondrinaSolid-Regular.otf</string>
+		<string>Montserrat.ttf</string>
+		<string>NeoRetroDraw.ttf</string>
+		<string>NeoRetroFill.ttf</string>
+		<string>nevis.ttf</string>
+		<string>OstrichSans-Black.ttf</string>
+		<string>OstrichSans-Bold.ttf</string>
+		<string>OstrichSans-Light.ttf</string>
+		<string>OstrichSans-Medium.ttf</string>
+		<string>Pacifico.ttf</string>
+		<string>PermanentMarker.ttf</string>
+		<string>PTSerif-Italic.ttf</string>
+		<string>PTSerif-Bold.ttf</string>
+		<string>PTSerif-BoldItalic.ttf</string>
+		<string>PT Serif Caption.ttf</string>
+		<string>Quicksand-Italic.otf</string>
+		<string>QuicksandBook-Regular.otf</string>
+		<string>QuicksandDash-Regular.otf</string>
+		<string>Sedgwick Co.ttf</string>
+		<string>Snickles.ttf</string>
+		<string>SourceSansPro-Black.ttf</string>
+		<string>SourceSansPro-BlackItalic.ttf</string>
+		<string>SourceSansPro-ExtraLight.ttf</string>
+		<string>SourceSansPro-ExtraLightItalic.ttf</string>
+		<string>SourceSansPro-Italic.ttf</string>
+		<string>SourceSansPro-Regular.ttf</string>
+		<string>Vanilla.ttf</string>
+	</array>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UIStatusBarHidden</key>
+	<true/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+</dict>
+</plist>

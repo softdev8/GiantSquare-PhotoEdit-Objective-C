@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model name="" userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="2057" systemVersion="12D78" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="DBFacebookAccounts" representedClassName="DBFacebookAccounts" syncable="YES">
+        <attribute name="dbImage" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="dbIndex" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="dbIsActive" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="dbName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dbToken" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dbUserID" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="DBTwitterAccounts" representedClassName="DBTwitterAccounts" syncable="YES">
+        <attribute name="dbImage" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="dbIndex" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="dbIsActive" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="dbName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dbToken" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dbUserID" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="DBFacebookAccounts" positionX="160" positionY="192" width="128" height="135"/>
+        <element name="DBTwitterAccounts" positionX="160" positionY="192" width="128" height="135"/>
+    </elements>
+</model>
